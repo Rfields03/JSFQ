@@ -2,71 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Inside the HTML document, where do you place your JavaScript code?",
+    answer: "Inside the script element",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Inside the script element",
+      "Inside the link element",
+      "In the footer element",
+      "Inside the head element"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "What operator is used to assign a value to a declared variable?",
+    answer: "Equal sign",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Equal sign",
+      "Colon",
+      "Double Equal",
+      "Question mark"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "What are the six primitive data types in JavaScript?",
+    answer: "string, number, boolean, bigIntm symbol, undefined",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "string, number, boolean, bigInt, symbol, undefined",
+      "sentence, int, truthy, bigInt, symbol, undefined",
+      "sentence, float, data, bigInt, symbol, undefined",
+      "string, num, falsy, bigInt, symbol, undefined"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "How do we declare a conditional statement in JavaScript?",
+    answer: "if...else",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "if...else",
+      "for loop",
+      "while loop",
+      "difference between"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "From the given array which index is the letter b on? [a,b,c,d]?",
+    answer: "1",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "1",
+      "0",
+      "2",
+      "3"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
 ];
