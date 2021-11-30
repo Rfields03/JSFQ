@@ -16,10 +16,14 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-Application deployed at live URL:
-Application GitHub URL submitted:
+Application deployed at live URL:  file:///C:/Bootcamp/Repo/API%20Challenge/JSFQ/JSFQ/index.html
+
+Application GitHub URL submitted:  https://github.com/Rfields03/JSFQ
 
 SCREENSHOTS:
+
+
+
 
 CREDITS: CodingNepal
 
