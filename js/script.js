@@ -17,6 +17,7 @@ start_btn.onclick = ()=>{
 
 // I need somewhere in this area something for high score local storage???
 
+
 // if exitQuiz button clicked
 exit_btn.onclick = ()=>{
     info_box.classList.remove("activeInfo"); //hide info box

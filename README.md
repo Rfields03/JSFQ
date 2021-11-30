@@ -27,7 +27,11 @@ Application GitHub URL submitted:  https://github.com/Rfields03/JSFQ
 
 SCREENSHOTS:
 
+Issue #1 - https://user-images.githubusercontent.com/91217452/143965477-f5e0d32c-60ac-478c-9126-0b583f413943.JPG
 
+Issue #2 - https://user-images.githubusercontent.com/91217452/143965882-f634ae81-6b4c-4ca1-b768-92608729b2e6.JPG
+
+Issue #4 - https://user-images.githubusercontent.com/91217452/143966078-bd63c058-a6c1-4341-8a44-0aaf1f61cf69.JPG
 
 
 CREDITS: CodingNepal
